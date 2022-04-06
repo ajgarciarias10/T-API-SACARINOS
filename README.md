@@ -17,5 +17,5 @@ Las cuales tendras que instalar :
 *         pip install "uvicorn[standard]" 
 ----------------------------------------------------
 PARA INICIAR LA FASTAPI  
-       python -m uvicorn main:app
+       * python -m uvicorn main:app
 Y para comprobar cada cosa con la interfaz http://127.0.0.1:8000/docs
